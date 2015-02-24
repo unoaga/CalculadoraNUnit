@@ -1,0 +1,87 @@
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\CalculadoraUnitTest.dll.config
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\CalculadoraUnitTest.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\CalculadoraUnitTest.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\Antlr3.Runtime.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\EntityFramework.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\Newtonsoft.Json.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Net.Http.Formatting.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.WebHost.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Mvc.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Optimization.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Providers.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Razor.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Razor.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\WebGrease.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\EntityFramework.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\Newtonsoft.Json.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Net.Http.Formatting.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.WebHost.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Mvc.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Razor.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Razor.xml
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\EntityFramework.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Http.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Mvc.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Optimization.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Providers.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Razor.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.WebPages.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\obj\Debug\CalculadoraUnitTest.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\obj\Debug\CalculadoraUnitTest.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\CalculadoraUnitTest\CalculadoraUnitTest\obj\Debug\CalculadoraUnitTest.pdb
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\CalculadoraUnitTest.dll.config
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\CalculadoraUnitTest.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\CalculadoraUnitTest.pdb
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\Antlr3.Runtime.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\EntityFramework.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\Microsoft.Web.Infrastructure.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\Newtonsoft.Json.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\nunit.framework.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Net.Http.Formatting.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.WebHost.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Mvc.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Optimization.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Providers.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Razor.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Deployment.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Razor.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\WebGrease.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\nunit.framework.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\EntityFramework.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\Newtonsoft.Json.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Net.Http.Formatting.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Http.WebHost.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Mvc.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.Razor.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Deployment.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\System.Web.WebPages.Razor.xml
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\EntityFramework.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Net.Http.Formatting.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Http.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Http.WebHost.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Mvc.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Optimization.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Providers.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.Razor.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.WebPages.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\obj\Debug\CalculadoraUnitTest.dll
+D:\CalculadoraUnitTest\CalculadoraUnitTest\obj\Debug\CalculadoraUnitTest.pdb

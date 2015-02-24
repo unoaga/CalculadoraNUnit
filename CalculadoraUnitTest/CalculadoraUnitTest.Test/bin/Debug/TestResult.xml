@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\CalculadoraUnitTest\CalculadoraUnitTest.Test\bin\Debug\CalculadoraUnitTest.Test.dll" total="13" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-24" time="16:04:21">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\NUnit-2.6.4\bin" machine-name="SAW007" user="aguzman" user-domain="SCIO" />
+  <culture-info current-culture="es-MX" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\CalculadoraUnitTest\CalculadoraUnitTest.Test\bin\Debug\CalculadoraUnitTest.Test.dll" executed="True" result="Success" success="True" time="0.244" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CalculadoraUnitTest" executed="True" result="Success" success="True" time="0.211" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.211" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="HomeTest" executed="True" result="Success" success="True" time="0.204" asserts="0">
+                <results>
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.Division" executed="True" result="Success" success="True" time="0.059" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.DivisionCero" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.DivisionInvalidFormat" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.Multiplicacion" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.MultiplicacionInvalidFormat" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.Porcentaje" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.PorcentajeInvalidFormat" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.Raiz" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.RaizInvalidFormat" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.Resta" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.RestaInvalidFormat" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.Suma" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="CalculadoraUnitTest.Test.HomeTest.SumaInvalidFormat" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

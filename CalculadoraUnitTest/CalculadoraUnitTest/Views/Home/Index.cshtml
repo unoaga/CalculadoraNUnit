@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html ng-app="OperacionesApp">
+<head>
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <script src="https://code.angularjs.org/1.4.0-beta.4/angular.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="/Scripts/operaciones.js"></script>
+
+</head>
+<body ng-controller="OperacionesCtrl">
+
+    <div class="panel panel-success" style="text-align: center">
+        <div class="panel-heading"><h2> Calculadora NUnit</h2> </div>
+
+
+        <form class="form-horizontal">
+            <div class="control-group">
+                <label class="control-label" for="inputEmail">Primer Número</label>
+                <div class="controls">
+                    <input type="text" ng-model="numero1"  id="numeroUno" placeholder="Escribe un número">
+                </div>
+            </div><br />
+            <div class="control-group">
+                <label class="control-label" for="inputEmail">Operacion</label>
+                <div class="controls">
+                    <select ng-model="operador" ng-change="validarRaiz()" class="selectpicker" data-style="btn-inverse">
+                        <option value="suma">Suma</option>
+                        <option value="resta">Resta</option>
+                        <option value="multiplicacion">Multiplicación</option>
+                        <option value="division">División</option>
+                        <option value="raiz">Raíz cuadrada</option>
+                        <option value="porcentaje">Porcentaje</option>
+                    </select>
+                </div>
+            </div><br />
+            <div class="control-group">
+                <label class="control-label" for="inputPassword">Segundo Número</label>
+                <div class="controls">
+                    <input type="text" ng-readonly="activoTextBox" ng-model="numero2" id="numeroDos" placeholder="Escribe un número">
+                </div>
+            </div><br />
+            <div class="control-group">
+            </div><br />
+            <label  ng-class="myClass">{{resultado}}</label><br />
+                <div class="control-group">
+                    <div class="controls">
+                        <button type="submit" ng-click="go()" class="btn">Realizar Operación</button>
+
+                        
+                    </div>
+                </div>
+</form>
+    </div>
+
+</body>
+</html>
